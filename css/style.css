@@ -1,0 +1,30 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/nosoffresspeciales.css");
+@import url("components/card.css");
+@import url("components/banner2.css");
+
+
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin|Questrial|Quicksand|Shadows+Into+Light&display=swap");
+
+
+
+body {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+}
+
+p {
+	color: black;
+}
+
+a {
+	text-decoration: none;
+}
